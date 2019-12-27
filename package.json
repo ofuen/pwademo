@@ -28,6 +28,7 @@
     "http-server": "^0.11.1",
     "mixin-deep": "^2.0.1",
     "rxjs": "~6.3.3",
+    "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.1",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
